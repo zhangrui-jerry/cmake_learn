@@ -1,4 +1,4 @@
-## learn CMake
+## 学习cmake
 - 配置cmake生成路径
 - 使用子模块
 
